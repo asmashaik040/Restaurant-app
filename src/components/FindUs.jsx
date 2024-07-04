@@ -41,9 +41,9 @@ const FindUs = () => {
       </div>
 
       <div className="numbers">
-        <Counter number={105} title="Posts" />
-        <Counter number={5175} title="Followers" />
-        <Counter number={468} title="Following" />
+        <Counter number={107} title="Vists" />
+        <Counter number={5175} title="Visitors" />
+        <Counter number={468} title="Visiting" />
       </div>
     </>
   );
