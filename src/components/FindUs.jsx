@@ -4,7 +4,9 @@ import Counter from "./Counter";
 
 const FindUs = () => {
   const navigate = useNavigate();
-  const bookTable = () => navigate("/table");
+  const bookTable = () => {
+    navigate("/table");
+  };
   return (
     <>
       <div className="app__wrapper section__padding" id="contact">

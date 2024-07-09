@@ -12,3 +12,5 @@ Menu with sort
 Intro video
 Photo Gallery
 Visitors count
+Contact Info
+Book Table - add details to book, using toastify for notifying user

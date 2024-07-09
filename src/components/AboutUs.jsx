@@ -12,7 +12,7 @@ const AboutUs = () => {
             passion for sharing the authentic tastes of our heritage, carefully
             curated from the diverse culinary landscapes of the Middle East.
           </p>
-          <p className="my-8 p__opensans">
+          <p className="p__opensans">
             Every dish on our menu is a tribute to the region's culinary
             traditions, prepared with love and respect for time-honored recipes,
             each bite is a culinary adventure.
@@ -31,7 +31,7 @@ const AboutUs = () => {
             passion for preserving and sharing the culinary traditions of the
             Middle East.
           </p>
-          <p className="my-8 p__opensans">
+          <p className="p__opensans">
             Over the years, Muskaan has evolved into a beloved gathering place
             for those who appreciate the art of good food and warm hospitality.
             Our commitment to quality and authenticity remains unwavering, as we
